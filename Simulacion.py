@@ -52,7 +52,7 @@ def calcularEnergia(matriz,N,J):
             energia += -J*sv*s
     return energia/2.  #Evita el sobre conteo
 
-def calcMag(matriz):
+def calcularMagnetizacion(matriz):
     #Calculo de magnetizacion dada una configuracion
     magnetizacion = np.sum(matriz)
     return magnetizacion
