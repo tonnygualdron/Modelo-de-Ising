@@ -8,3 +8,6 @@ El código está escrito en Python 3. Utiliza las librerías numpy, matplotlib y
 Al ejecutar Energia.py se genera una gráfica de energía vs numero de pasos para 10 valores de energía entre 1.5 y 3.5 K.
 
 Al ejecutar EM_TC.py se genera dos gráficas. Una de energía vs temperatura para 50 valores de energía entre 1.5 y 3.5 K, y otra de magnetización vs temperatura para 50 valores de energía entre 1.5 y 3.5 K.
+
+#Carpeta Graficas
+En esta carpeta están las 3 imágenes que se generan en la simulación.
